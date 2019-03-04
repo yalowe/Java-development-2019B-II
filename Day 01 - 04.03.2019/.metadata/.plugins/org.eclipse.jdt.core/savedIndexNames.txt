@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/anna/eclipse-workspace/Day 01 - 04.03.2019/.metadata/.plugins/org.eclipse.jdt.core
+646308851.index
+3651123831.index
